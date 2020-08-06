@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="bakirillov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bakirillov | Telegram" width="22px" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" />][telegram]
+[<img align="left" alt="bakirillov | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
 [<img align="left" alt="bakirillov | Scholar" width="22px" src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg" />][scholar]
 [<img align="left" alt="bakirillov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 ---
 
-<img align="center" alt="bakirillov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bakirillov&show_icons=true&hide_border=true" />
+<img align="left" alt="bakirillov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bakirillov&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/KotekLapke
 [telegram]: https://t.me/k1r1ll0v
