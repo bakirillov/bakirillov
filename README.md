@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Latin
 - ⚡ Fun fact: cat gifs are the ultimate drug
 
-### Connect with me:
+### Contacts and links:
 
 [<img align="left" alt="bakirillov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bakirillov | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+### The latest preprints:
+
+[https://www.biorxiv.org/content/10.1101/2020.06.11.145805v1][Examining the effects of transcranial direct current stimulation on human episodic memory with machine learning]
+
 <br />
 <br />
 
