@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### The latest preprints:
 
-[https://www.biorxiv.org/content/10.1101/2020.06.11.145805v1][Examining the effects of transcranial direct current stimulation on human episodic memory with machine learning]
+[Examining the effects of transcranial direct current stimulation on human episodic memory with machine learning:[https://www.biorxiv.org/content/10.1101/2020.06.11.145805v1]
 
 <br />
 <br />
