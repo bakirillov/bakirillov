@@ -42,6 +42,6 @@ Examining the effects of transcranial direct current stimulation on human episod
 <img align="left" alt="bakirillov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bakirillov&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/KotekLapke
-[telegram]: https://t.me/k1r1ll0v
+[telegram]: https://t.me/k0t3k_l4pk3
 [instagram]: https://www.instagram.com/8k1r1ll0v/
 [scholar]: https://scholar.google.ru/citations?user=XRmTPksAAAAJ&hl=ru
