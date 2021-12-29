@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Contacts and links:
 
-[<img align="left" alt="bakirillov | CV" width="22px" src="https://w7.pngwing.com/pngs/830/659/png-transparent-documents-logo-computer-icons-document-management-system-documents-miscellaneous-angle-text.png" />][twitter]
+[<img align="left" alt="bakirillov | CV" width="22px" src="https://w7.pngwing.com/pngs/830/659/png-transparent-documents-logo-computer-icons-document-management-system-documents-miscellaneous-angle-text.png" />][cv]
 [<img align="left" alt="bakirillov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bakirillov | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
 [<img align="left" alt="bakirillov | Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />][scholar]
