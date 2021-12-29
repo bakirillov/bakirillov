@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Bogdan A. Kirillov 👋
 
-## I'm a Life Sciences PhD Student and a Machine Learning Developer.
+## PhD Student in Computational Biology, Machine Learning Developer.
 - 🔭 I’m currently working on several Computational Biology projects
-- 🌱 I’m currently learning Latin
+- 🌱 I’m currently learning how to model a living system with PDE
+- 💬 Ask me about how to build a Machine Learning-powered MVP for your startup
 - ⚡ Fun fact: cat gifs are the ultimate drug
 
 ### Contacts and links:
 
+[<img align="left" alt="bakirillov | CV" width="22px" src="https://w7.pngwing.com/pngs/830/659/png-transparent-documents-logo-computer-icons-document-management-system-documents-miscellaneous-angle-text.png" />][twitter]
 [<img align="left" alt="bakirillov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bakirillov | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
 [<img align="left" alt="bakirillov | Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />][scholar]
@@ -45,6 +47,7 @@ Examining the effects of transcranial direct current stimulation on human episod
 
 <img align="left" alt="bakirillov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bakirillov&show_icons=true&hide_border=true" />
 
+[cv]: https://bakirillov.github.io/
 [twitter]: https://twitter.com/KotekLapke
 [telegram]: https://t.me/k0t3k_l4pk3
 [instagram]: https://www.instagram.com/8k1r1ll0v/
