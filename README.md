@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## PhD Student in Computational Biology, Machine Learning Developer.
 - 🔭 I’m currently working on several Computational Biology projects
-- 🌱 I’m currently learning how to model a living system with PDE
+- 🌱 I’m currently learning how to model a living system with PDEs
 - 💬 Ask me about how to build a Machine Learning-powered MVP for your startup
 - ⚡ Fun fact: cat gifs are the ultimate drug
 
