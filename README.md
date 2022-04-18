@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Bogdan A. Kirillov 👋
+# Hi there, I'm Bogdan A. Kirillov 👋
 
 ## PhD Student in Computational Biology, Machine Learning Developer.
 - 🔭 I’m currently working on several Computational Biology projects
