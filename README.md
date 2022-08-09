@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### The latest papers:
 
-Measuring internal inequality in capsule networks for supervised anomaly detection. https://doi.org/10.1038/s41598-022-17734-7
+Measuring internal inequality in capsule networks for supervised anomaly detection: https://doi.org/10.1038/s41598-022-17734-7
 
 Uncertainty-aware and interpretable evaluation of Cas9–gRNA and Cas12a–gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning: https://academic.oup.com/nar/article/50/2/e11/6430490     
 
