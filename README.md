@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ### The latest papers:
 
+Measuring internal inequality in capsule networks for supervised anomaly detection. https://doi.org/10.1038/s41598-022-17734-7
+
 Uncertainty-aware and interpretable evaluation of Cas9–gRNA and Cas12a–gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning: https://academic.oup.com/nar/article/50/2/e11/6430490     
 
 Examining the effects of transcranial direct current stimulation on human episodic memory with machine learning: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235179 (preprint: https://www.biorxiv.org/content/10.1101/2020.06.11.145805v1)
