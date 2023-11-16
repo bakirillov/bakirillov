@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Bogdan A. Kirillov 👋
 
-## PhD Student in Computational Biology, Machine Learning Developer.
+## PhD in Life Sciences, Machine Learning Developer.
 - 🔭 I’m currently working on several Computational Biology projects
 - 🌱 I’m currently learning how to model a living system with PDEs
 - 💬 Ask me about how to build a Machine Learning-powered MVP for your startup
@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+### The PhD thesis:
+
+Uncertainty quantification and neural network interpretation for studying CRISPR mechanics: 10.13140/RG.2.2.15498.85448
 
 ### The latest papers:
 
