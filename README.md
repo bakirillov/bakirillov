@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### The PhD thesis:
+### PhD thesis:
 
 Uncertainty quantification and neural network interpretation for studying CRISPR mechanics: 10.13140/RG.2.2.15498.85448
 
-### The latest papers:
+### Latest papers:
 
 Measuring internal inequality in capsule networks for supervised anomaly detection: https://doi.org/10.1038/s41598-022-17734-7
 
