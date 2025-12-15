@@ -37,6 +37,8 @@ Uncertainty quantification and neural network interpretation for studying CRISPR
 
 ### Latest papers:
 
+Numerical modeling of oxygen diffusion in tissue spheroids undergoing fusion using function representation and finite volumes: https://www.nature.com/articles/s41598-025-86805-2
+
 Measuring internal inequality in capsule networks for supervised anomaly detection: https://doi.org/10.1038/s41598-022-17734-7
 
 Uncertainty-aware and interpretable evaluation of Cas9–gRNA and Cas12a–gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning: https://academic.oup.com/nar/article/50/2/e11/6430490     
@@ -53,6 +55,6 @@ Examining the effects of transcranial direct current stimulation on human episod
 
 [cv]: https://bakirillov.github.io/
 [twitter]: https://twitter.com/KotekLapke
-[telegram]: https://t.me/k0t3k_l4pk3
+[telegram]: https://t.me/dr_kotovy_zubasty
 [instagram]: https://www.instagram.com/8k1r1ll0v/
 [scholar]: https://scholar.google.ru/citations?user=XRmTPksAAAAJ&hl=ru
