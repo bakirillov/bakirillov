@@ -37,6 +37,8 @@ Uncertainty quantification and neural network interpretation for studying CRISPR
 
 ### Latest papers:
 
+A vector database solution for rational design of CRISPR defense-avoidant phage therapy: https://peerj.com/articles/cs-3427/
+
 Numerical modeling of oxygen diffusion in tissue spheroids undergoing fusion using function representation and finite volumes: https://www.nature.com/articles/s41598-025-86805-2
 
 Measuring internal inequality in capsule networks for supervised anomaly detection: https://doi.org/10.1038/s41598-022-17734-7
