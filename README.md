@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## PhD in Life Sciences, Machine Learning Developer.
 - 🔭 I’m currently working on several Computational Biology projects
-- 🌱 I’m currently learning how to model a living system with PDEs
 - 💬 Ask me about how to build a Machine Learning-powered MVP for your startup
 - ⚡ Fun fact: cat gifs are the ultimate drug
 
@@ -34,6 +33,9 @@ Here are some ideas to get you started:
 
 Uncertainty quantification and neural network interpretation for studying CRISPR mechanics: 10.13140/RG.2.2.15498.85448
 
+### Latest preprints:
+
+Sequencing-free PAM discovery for CRISPR-Cas9 orthologs via active learning: https://www.biorxiv.org/content/10.64898/2026.10.20.760532v1
 
 ### Latest papers:
 
